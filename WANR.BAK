@@ -1,0 +1,15 @@
+#include<stdio.h>
+#include<conio.h>
+void sum(int,int)
+void main()
+{
+	int x=8,y=7;
+	clrscr();
+	sum(x,y);
+	getch();
+}
+void sum()
+{
+	int c=x+y;
+	printf("\n\n\tX + Y = %d",c);
+}

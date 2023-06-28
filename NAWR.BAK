@@ -1,0 +1,15 @@
+#include<stdio.h>
+#include<conio.h>
+xyz();
+void main()
+{
+	int ans(),z;
+	clrscr();
+	ans:xyz();
+	printf("%d",ans);
+	getch();
+}
+xyz()
+{
+	int x=7,y=2,z=x+y;
+}

@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+	int x=3,z;
+	clrscr();
+	z=xyz(x);
+	printf("%d",z);
+	getch();
+}
